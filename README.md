@@ -26,13 +26,27 @@ Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida
 Breve descrição do seu projeto
 
 ## 🤖 Tecnologias Utilizadas
+- [ChatGPT](https://chat.openai.com/) 
+- [Leonardo.AI](https://www.leonardo.ai/image-generation)
+- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [ElevenLabs](https://beta.elevenlabs.io/)
+- [Capcut](https://www.capcut.com/pt-br/)
 Liste as IAs Generativas e outras ferramentas usadas
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Para o E-book:
+Os prompts foram criados com ajuda do ChatGPT e depois utilizamos uma ferramenta de edição de documentos como power point, 
+
+Para o Podcast:
+Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+
+- 🤖 1. Use os prompts de roteiro no `ChaGPT`
+- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
+- 🤖 3. Use os prompts de artes no `Leonardo.AI`
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+E-Book
+Podcast
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
