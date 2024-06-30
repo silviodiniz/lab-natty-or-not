@@ -49,7 +49,7 @@ E-Book
 Podcast
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Comentando sobre o desafio de criar algo 'natty' com IA: processo de aprendizagem extremamente rico, já que podemos utilizar diferentes ferramentas de IA que serviram como verdadeiros assessores para desenvolvermos os projetos de desenvolvimento do E-book e do podcastç
 ```
 
 ### Exemplos e Insigths
