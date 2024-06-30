@@ -14,7 +14,7 @@ Este podcast de 5 minutos oferece um passeio rápido, mas profundo, pelo mundo d
 ## 🚀 Resultados
 O episódio é uma introdução acessível e estimulante ao campo das IAs Generativas, ideal para quem busca uma compreensão rápida do assunto.
 
-[LINK PARA O PODCAST AQUI]()
+[LINK PARA O PODCAST AQUI](https://github.com/silviodiniz/lab-natty-or-not/blob/main/exemplos/podcast_original.MP3)
 
 ## 💭 Reflexão
 O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.
