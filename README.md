@@ -45,8 +45,8 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 3. Use os prompts de artes no `Leonardo.AI`
 
 ## 🚀 Resultados
-E-Book
-Podcast
+E-Book intitulado: "CSS JEDI: Domine a Força dos Seletores"
+Podcast intitulado: "Código e Pixel: O Podcast da Web"
 
 ## 💭 Reflexão (Opcional)
 Comentando sobre o desafio de criar algo 'natty' com IA: processo de aprendizagem extremamente rico, já que podemos utilizar diferentes ferramentas de IA que serviram como verdadeiros assessores para desenvolvermos os projetos de desenvolvimento do E-book e do podcastç
