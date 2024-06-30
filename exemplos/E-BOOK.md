@@ -12,7 +12,7 @@ Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas 
 Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+O e-book intitulado: "CSS JEDI: Domine a Força dos Seletores" apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
 [LINK PARA O E-BOOK AQUI]()
 
